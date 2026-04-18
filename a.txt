@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdqwe
+=======
+asdq
+>>>>>>> feature/name
